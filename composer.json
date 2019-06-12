@@ -8,5 +8,11 @@
             "email": "matteienrico@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "\\App": "src"
+        }
+    }
 }
