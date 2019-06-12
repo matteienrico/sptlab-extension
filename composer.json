@@ -1,0 +1,12 @@
+{
+    "name": "matteienrico/sptlab-extension",
+    "type": "library",
+    "description": "Extension for sptlab",
+    "authors": [
+        {
+            "name": "Enrico Mattei",
+            "email": "matteienrico@yandex.ru"
+        }
+    ],
+    "require": {}
+}
