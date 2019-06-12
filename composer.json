@@ -1,5 +1,6 @@
 {
     "name": "matteienrico/sptlab-extension",
+    "license": "MIT",
     "type": "library",
     "description": "Extension for sptlab",
     "authors": [
